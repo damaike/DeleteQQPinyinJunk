@@ -1,0 +1,2 @@
+# DeleteQQPinyinJunk
+删除QQ拼音同步时产生的无用临时文件
